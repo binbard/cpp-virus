@@ -16,7 +16,7 @@ There are two viruses made for fun in c++
 
 ## Run
 
-You can download a compiled version from [Releases](/releases) page.
+You can download a compiled version from [Releases](/../../releases) page.
 
 
 ## Requirements

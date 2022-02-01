@@ -6,7 +6,7 @@ There are two viruses made for fun in c++
   I suggest not to try this :)
 
 - ### Nonstop Virus: 
-  This was accidently created by me while working on something and I fixed that. So its source is not available;
+  It was accidently created by me (Actually it is a bug ;) while working on something and I fixed that. So its source is not available;
   
 ----------------------------------------------------------------------------------
 
